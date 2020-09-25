@@ -36,6 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(330, 461);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "FormMain";
             this.Text = "Calcolatrice";
