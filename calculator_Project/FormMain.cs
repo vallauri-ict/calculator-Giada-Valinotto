@@ -71,7 +71,7 @@ namespace calculator_Project
                 for (int j = 0; j < buttons.GetLength(1); j++)
                 {
                     Button newButton = new Button();
-                    newButton.Font = new Font("Segue UI",15);
+                    newButton.Font = new Font("Segue UI",14);
                     ///newButton.Text = buttons[i, j].Content.ToString();
                     ButtonStruct bs = buttons[i, j];
                     newButton.Text = bs.ToString();
