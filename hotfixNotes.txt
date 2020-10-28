@@ -1,0 +1,2 @@
+9/10/2020: Solved a result number problem and added decimal number formatting
+14/10/2020: Improved decimals and thousands numbers formatting
